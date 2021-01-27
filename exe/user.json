@@ -1,0 +1,12 @@
+{
+    "balance_money": 133612000,
+    "bank": "没钱的银行",
+    "initial_money": 150000000,
+    "name": "没钱的王先生",
+    "stock": [
+        {
+            "stock_code": "sh600519",
+            "stock_number": 100
+        }
+    ]
+}
